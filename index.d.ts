@@ -7,6 +7,7 @@ import type { IDestroyOptions } from '@pixi/display';
 import type { IHitArea } from '@pixi/events';
 import { IPointData } from '@pixi/core';
 import { Point } from '@pixi/core';
+import type { Point as Point_2 } from '@pixi/math';
 import { Rectangle } from '@pixi/core';
 import { Ticker } from '@pixi/core';
 
